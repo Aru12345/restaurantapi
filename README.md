@@ -5,11 +5,10 @@ Technologies user : Node.js,GraphQl,Npm
 # Directions
 
 <ol>
-<li>1.Fork and clone the repository.</li>
-<li>2.Open terminal and navigate to the folder you wanna clone your repository to.</li>
-3.Navigate to the the cloned repo and run npm run dev
-4.Open http://localhost:${port}/graphql to view the api.
-
+<li>Fork and clone the repository.</li>
+<li>Open terminal and navigate to the folder you wanna clone your repository to.</li>
+<li>Navigate to the the cloned repo and run npm run dev</li>
+<li>Open http://localhost:${port}/graphql to view the api.</li>
 
 </ol>
 
